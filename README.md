@@ -1,6 +1,6 @@
 # 🧮 Cálculadora Numérica de Derivadas com Streamlit
 * Acesse o site abaixo: 
-* [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]()
+* [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://calculadoranumericapedroamerico.streamlit.app/)
 
 Projeto pessoal para automatizar o cálculo numérico de derivadas e auxiliar estudantes de Engenharia. 
 
