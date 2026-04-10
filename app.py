@@ -6,7 +6,7 @@ import math  # <-- Novo import para lidar com trigonometria
 st.set_page_config(page_title="Calculadora Numérica Universal", page_icon="⚙️")
 
 st.title("⚙️ Calculadora Numérica de Derivadas")
-st.markdown("Cálculo de **Velocidade (1ª)** e **Aceleração (2ª)** para qualquer variável.")
+st.markdown("Cálculo de **Velocidade (1ª)** e **Aceleraçao (2ª)** para qualquer variável.")
 st.divider()
 
 def formatar_latex(var):
